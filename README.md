@@ -1,4 +1,4 @@
-# SBI-General-Insurance-Analysis-using-Python
+# SBI-General-Insurance-Analysis
 
 **Objective**
 
